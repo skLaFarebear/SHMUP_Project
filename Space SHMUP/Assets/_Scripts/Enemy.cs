@@ -100,7 +100,7 @@ public class Enemy : MonoBehaviour {
 			materials[i].color = originalColors[i];
 		}
 	}
-
+	//dfiogdof
 }
 
 
